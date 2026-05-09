@@ -1,27 +1,27 @@
 import Navbar from "@/components/layout/Navbar"
 import Hero from "@/components/sections/Hero";
-// import About from "@/components/About";
-// import Services from "@/components/Services";
-// import Gallery from "@/components/Gallery";
-// import Testimonials from "@/components/Testimonials";
-// import Booking from "@/components/Booking";
-// import Contact from "@/components/Contact";
-// import Footer from "@/components/Footer";
-// import FloatingWhatsapp from "@/components/FloatingWhatsapp";
+import About from "@/components/sections/About";
+import Services from "@/components/sections/Services";
+import Gallery from "@/components/sections/Gallery";
+import Testimonials from "@/components/sections/Testimonials";
+import Booking from "@/components/sections/Booking";
+import Contact from "@/components/sections/Contact";
+import Footer from "@/components/layout/Footer";
+import FloatingWhatsapp from "@/components/sections/FloatingWhatsapp";
 
 export default function HomePage() {
   return (
     <main className="bg-[#111827] text-[#F8F9FA] overflow-x-hidden">
       <Navbar />
       <Hero />
-      {/* <About />
+      <About />
       <Services />
       <Gallery />
       <Testimonials />
       <Booking />
       <Contact />
       <Footer />
-      <FloatingWhatsapp /> */}
+      <FloatingWhatsapp /> 
     </main>
   );
 }
