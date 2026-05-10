@@ -50,7 +50,7 @@ export default function Footer() {
       </div>
 
       <div className="max-w-7xl mx-auto border-t border-white/10 mt-12 pt-8 text-center text-gray-500 text-sm">
-        © 2026 UK Art Group. All rights reserved.
+        © 2026 UK ART GROUP. All rights reserved.
       </div>
     </footer>
   );

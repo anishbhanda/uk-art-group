@@ -18,20 +18,29 @@ export default function Navbar() {
 
   return (
     <nav
-      className={`fixed top-0 left-0 right-0 z-50 transition-all duration-300 border-b ${
-        scrolled
-          ? "bg-[#111827]/95 border-yellow-600/20"
-          : "bg-[#111827]/20 border-transparent"
-      } backdrop-blur-xl`}
+      className={`fixed top-0 left-0 right-0 z-50 transition-all duration-300 border-b ${scrolled
+        ? "bg-[#111827]/95 border-yellow-600/20"
+        : "bg-[#111827]/20 border-transparent"
+        } backdrop-blur-xl`}
     >
       <div className="max-w-7xl mx-auto px-6 lg:px-12 py-5 flex items-center justify-between">
-        <a
-          href="#"
-          className="text-3xl font-bold text-yellow-500 tracking-wide"
-        >
-          UK <span className="text-[#E76F51]">Art</span> Group
-        </a>
+        <a href="#" className="flex items-center gap-3">
+          <img
+            src="/images/logo.png"
+            alt="UK Art Group Logo"
+            className="h-15 w-15 object-cover p-1 shadow-xl"
+          />
+          {/* Optional Text */}
+          <div className="leading-tight">
+            <h1 className="text-lg sm:text-xl font-bold text-yellow-500 tracking-wide">
+              UK ART GROUP
+            </h1>
 
+            <p className="text-[10px] sm:text-xs text-gray-300 uppercase tracking-[0.2em]">
+              सांस्कृतिक कला मंच
+            </p>
+          </div>
+        </a>
         <ul className="hidden md:flex items-center gap-10 uppercase text-sm tracking-[0.2em]">
           <li><a href="#about">About</a></li>
           <li><a href="#services">Services</a></li>

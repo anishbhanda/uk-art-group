@@ -8,6 +8,7 @@ import Booking from "@/components/sections/Booking";
 import Contact from "@/components/sections/Contact";
 import Footer from "@/components/layout/Footer";
 import FloatingWhatsapp from "@/components/sections/FloatingWhatsapp";
+import Reels from "@/components/sections/Reels";
 
 export default function HomePage() {
   return (
@@ -17,6 +18,7 @@ export default function HomePage() {
       <About />
       <Services />
       <Gallery />
+      <Reels/>
       <Testimonials />
       <Booking />
       <Contact />
