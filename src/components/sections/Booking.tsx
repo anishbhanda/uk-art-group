@@ -20,7 +20,7 @@ export default function Booking() {
   };
 
   const sendToWhatsapp = () => {
-    const whatsappNumber = "8112971177";
+    const whatsappNumber = "918112971177";
 
     const text = `
 🎭 *New Booking Request*
@@ -33,9 +33,9 @@ export default function Booking() {
 
 📝 Message:
 ${formData.message}
-    `;
+  `;
 
-    const url = `https://wa.me/${whatsappNumber}?text=${encodeURIComponent(
+    const url = `https://api.whatsapp.com/send?phone=${whatsappNumber}&text=${encodeURIComponent(
       text
     )}`;
 
