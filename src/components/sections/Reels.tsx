@@ -4,17 +4,17 @@ const reels = [
   {
     title: "Chholiya Dance",
     subtitle: "Wedding Celebration",
-    video: "/videos/chholiya-dance.mp4",
+    video: "/videos/chholiya-dance.MP4",
   },
   {
     title: "Dhol-Damau",
     subtitle: "Festival Night",
-    video: "/videos/mountain-folk.mp4",
+    video: "/videos/mountain-folk.MP4",
   },
   {
     title: "Grand Festival",
     subtitle: "Cultural Mela 2024",
-    video: "/videos/grand-festival.mp4",
+    video: "/videos/grand-festival.MP4",
   },
 ];
 

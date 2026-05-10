@@ -26,7 +26,7 @@ export default function Navbar() {
       <div className="max-w-7xl mx-auto px-6 lg:px-12 py-5 flex items-center justify-between">
         <a href="#" className="flex items-center gap-3">
           <img
-            src="/images/logo.png"
+            src="/images/logo.PNG"
             alt="UK Art Group Logo"
             className="h-15 w-15 object-cover p-1 shadow-xl"
           />
