@@ -24,6 +24,7 @@ export default function Footer() {
           </ul>
         </div>
 
+
         <div>
           <h4 className="uppercase tracking-widest text-yellow-500 text-sm mb-5">
             Services
