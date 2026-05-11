@@ -3,24 +3,21 @@ const services = [
     title: "Folk Dance Performances",
     icon: "💃",
     tag: "Live Performance",
-    image:
-      "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=800&q=80",
+    image:"/images/folk-dance.jpeg",
     desc: "Experience traditional Uttarakhand folk dances performed in authentic attire.",
   },
   {
     title: "Traditional Live Music",
     icon: "🥁",
     tag: "Live Music",
-    image:
-      "https://images.unsplash.com/photo-1516450360452-9312f5e86fc7?w=800&q=80",
+    image:"/images/live-music.jpeg",
     desc: "Dhol Damau, Turri, and Ransingha create a timeless Himalayan atmosphere.",
   },
   {
     title: "Cultural Event Management",
     icon: "🎪",
     tag: "Events",
-    image:
-      "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=800&q=80",
+    image:"/images/cultural.jpeg",
     desc: "Complete cultural event planning from weddings to festivals.",
   },
   {

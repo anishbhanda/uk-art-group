@@ -19,7 +19,8 @@ export default function Contact() {
                 Phone
               </h4>
 
-              <p className="text-gray-300">+91 98765 43210</p>
+              <p className="text-gray-300">8700944227
+</p>
             </div>
 
             <div>
@@ -27,7 +28,14 @@ export default function Contact() {
                 Email
               </h4>
 
-              <p className="text-gray-300">hello@ukartgroup.in</p>
+              <p className="text-gray-300">bhavyanegi62@gmail.com</p>
+            </div>
+            <div>
+              <h4 className="uppercase tracking-widest text-sm text-[#E76F51] mb-2">
+               Availability
+              </h4>
+
+              <p className="text-gray-300">Monday to Sunday 9 am to 9 pm</p>
             </div>
 
             <div>
@@ -35,7 +43,7 @@ export default function Contact() {
                 Location
               </h4>
 
-              <p className="text-gray-300">Uttarakhand, India</p>
+              <p className="text-gray-300">e-95 pratap vihar khora colony near purana transfram</p>
             </div>
           </div>
         </div>

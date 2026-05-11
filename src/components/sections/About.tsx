@@ -61,7 +61,7 @@ export default function About() {
           {/* Main Image */}
           <div className="relative overflow-hidden rounded-xl">
             <img
-              src="/images/image3.jpeg"
+              src="/images/story-img.PNG"
               alt="Uttarakhand Culture"
               className="w-full h-[350px] sm:h-[450px] lg:h-[600px] object-cover hover:scale-105 transition duration-700"
             />
