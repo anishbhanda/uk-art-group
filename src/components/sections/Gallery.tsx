@@ -82,6 +82,8 @@ export default function Gallery() {
               Visual Journey
             </p>
 
+
+
             <h2 className="text-5xl font-bold">
               Our <span className="italic text-[#E76F51]">Gallery</span>
             </h2>
