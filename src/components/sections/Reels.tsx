@@ -14,6 +14,14 @@ const reels = [
   {
     title: "Grand Festival",
     subtitle: "Cultural Mela 2024",
+    video: "/videos/vid1.MP4",
+  },{
+    title: "Grand Festival",
+    subtitle: "Cultural Mela 2024",
+    video: "/videos/vid2.MP4",
+  },{
+    title: "Grand Festival",
+    subtitle: "Cultural Mela 2024",
     video: "/videos/grand-festival.MP4",
   },
 ];

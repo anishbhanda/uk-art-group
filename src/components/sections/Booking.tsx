@@ -20,7 +20,7 @@ export default function Booking() {
   };
 
   const sendToWhatsapp = () => {
-    const whatsappNumber = "918112971177";
+    const whatsappNumber = "918700944227";
 
     const text = `
 🎭 *New Booking Request*

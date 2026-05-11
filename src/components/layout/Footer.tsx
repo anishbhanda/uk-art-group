@@ -42,9 +42,9 @@ export default function Footer() {
           </h4>
 
           <p className="text-gray-400 leading-7">
-            hello@ukartgroup.in
+            bhavyanegi62@gmail.com
             <br />
-            +91 98765 43210
+            +91 8700944227
           </p>
         </div>
       </div>
