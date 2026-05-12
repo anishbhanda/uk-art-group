@@ -17,7 +17,7 @@ const services = [
     title: "Cultural Event Management",
     icon: "🎪",
     tag: "Events",
-    image:"/images/cultural.jpeg",
+    image:"/images/cultural1.jpeg",
     desc: "Complete cultural event planning from weddings to festivals.",
   },
   {

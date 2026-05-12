@@ -43,18 +43,24 @@ export default function Contact() {
                 Location
               </h4>
 
-              <p className="text-gray-300">e-95 pratap vihar khora colony near purana transfram</p>
+              <p className="text-gray-300">E-95 pratap vihar khora colony near purana transfram</p>
             </div>
           </div>
         </div>
 
         <div className="rounded-xl border border-white/10 min-h-[400px] bg-gradient-to-br from-[#1B4332] to-[#111827] flex items-center justify-center">
           <div className="text-center">
-            <div className="text-6xl mb-5">🏔️</div>
 
-            <p className="text-gray-300">Rooted in the Himalayas</p>
+<img
+              src="/images/mountain.jpg"
+              alt="Uttarakhand Culture"
+              className="w-full h-[350px] sm:h-[350px] lg:h-[500px]  object-cover "
+            />
+            </div>
+
+            {/* <p className="text-gray-300">Rooted in the Himalayas</p> */}
           </div>
-        </div>
+
       </div>
     </section>
   );
