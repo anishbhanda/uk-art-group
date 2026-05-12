@@ -9,21 +9,20 @@ const reels = [
   {
     title: "Dhol-Damau",
     subtitle: "Festival Night",
-    video: "/videos/mountain-folk.MP4",
+    video: "/videos/cholii.MP4",
+  },
+  
+  {
+    title: "Mangal Geet",
+    subtitle: "Cultural Mela 2024",
+    video: "/videos/vid2.MP4",
   },
   {
     title: "Grand Festival",
     subtitle: "Cultural Mela 2024",
-    video: "/videos/vid1.MP4",
-  },{
-    title: "Grand Festival",
-    subtitle: "Cultural Mela 2024",
-    video: "/videos/vid2.MP4",
-  },{
-    title: "Grand Festival",
-    subtitle: "Cultural Mela 2024",
     video: "/videos/grand-festival.MP4",
   },
+  
 ];
 
 export default function Reels() {

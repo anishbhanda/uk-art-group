@@ -24,34 +24,11 @@ const images = [
     image: "/images/image4.jpeg",
   },
   {
-    title: "Traditional Attire",
-    category: "Dance",
-    image: "/images/image5.jpeg",
-  },{
-    title: "Workshop Training",
-    category: "Events",
-    image: "/images/image6.jpeg",
-  },{
-    title: "Workshop Training",
-    category: "Events",
-    image: "/images/image7.jpeg",
-  },{
-    title: "Workshop Training",
-    category: "Events",
-    image: "/images/image8.jpeg",
-  },{
     title: "Workshop Training",
     category: "Events",
     image: "/images/image9.jpeg",
-  },{
-    title: "Workshop Training",
-    category: "Events",
-    image: "/images/image10.jpeg",
-  },{
-    title: "Workshop Training",
-    category: "Events",
-    image: "/images/image11.jpeg",
-  },{
+  },
+  {
     title: "Workshop Training",
     category: "Events",
     image: "/images/image12.jpeg",
