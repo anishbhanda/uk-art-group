@@ -48,7 +48,7 @@ export default function Contact() {
           </div>
         </div>
 
-        <div className="rounded-xl border border-white/10 min-h-[400px] bg-gradient-to-br from-[#1B4332] to-[#111827] flex items-center justify-center">
+        <div className="rounded-xl border border-white/10 min-h-[400px] flex items-center justify-center">
           <div className="text-center">
 
 <img

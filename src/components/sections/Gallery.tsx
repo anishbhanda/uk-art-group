@@ -54,10 +54,24 @@ const images = [
     title: "Workshop Training",
     category: "Events",
     image: "/images/image17.jpg",
-  },{
+  },
+  {
+
     title: "Workshop Training",
     category: "Events",
-    image: "/images/image18.jpg",
+    image: "/images/image19.jpg",
+  },
+  {
+
+    title: "Workshop Training",
+    category: "Events",
+    image: "/images/image20.jpg",
+  },
+  {
+
+    title: "Workshop Training",
+    category: "Events",
+    image: "/images/image21.jpg",
   },
 ];
 

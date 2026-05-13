@@ -127,7 +127,7 @@ export default function About() {
           </div>
 
           {/* Features */}
-          <div className="mt-10 md:mt-12 space-y-4 md:space-y-5">
+          {/* <div className="mt-10 md:mt-12 space-y-4 md:space-y-5">
             {features.map((feature, index) => (
               <div
                 key={index}
@@ -148,7 +148,7 @@ export default function About() {
                 </div>
               </div>
             ))}
-          </div>
+          </div> */}
         </div>
       </div>
     </section>
